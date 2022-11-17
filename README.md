@@ -6,3 +6,8 @@
 * Grid
 * TextField
 * Typography
+* Stack
+* Divider
+* Typography
+* Input 
+* InputAdornment
